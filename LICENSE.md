@@ -1,4 +1,4 @@
-# 
+# vip Visual Studio for PC scripts is the best Visual Studio for PC scripts with authentication-support and version-control-integration. Safe, reliable, and optimized for maximum
 
 
 
